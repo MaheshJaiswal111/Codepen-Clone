@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+*root {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.CodeMirror {
+    height: 340px !important;
+    color: white;
+}
+
+.CodeMirror-gutters {
+    background: #1d1e22;
+}
+
+.CodeMirror-scroll {
+    background: #1d1222;
+}
